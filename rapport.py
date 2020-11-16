@@ -745,7 +745,7 @@ Use some already trained CNN to segment YOUR image.
 In the cell below your can load a image to the notebook and use the given network to have the segmentation mask and plot it.
 """
 
-if __name__ = "__main__" :
+if __name__ == "__main__" :
     
     # TODO HERE: Upload an image to the notebook in the navigation bar on the left
     # `File` `Load File`and load an image to the notebook. 
